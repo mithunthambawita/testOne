@@ -8,6 +8,7 @@ function App() {
     <>
       <Router>
         <BarCodeScanner />
+        {/* mithun */}
       </Router>
     </>
   );
